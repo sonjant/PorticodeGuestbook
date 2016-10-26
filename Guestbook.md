@@ -19,3 +19,5 @@ And this is my first pull request :octocat:!
 [Paulina Szklarek](http://twitter.com/szklarekp)
 
 [Ollie Favell](http://github.com/DaNinjaKidy)
+
+[Mike Senior](https://github.com/michaelsenior)
