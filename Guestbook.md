@@ -33,3 +33,5 @@ And this is my first pull request :octocat:!
 [Martin Svejda](https://www.linkedin.com/in/martinsvejda)
 
 [Rachel Mcteigue](https://github.com/HackNewbieBCU)
+
+[Jordan Lees](https://github.com/JordanL1)
