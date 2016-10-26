@@ -9,6 +9,7 @@ And this is my first pull request :octocat:!
 [Pandelis Zembashis](http://twitter.com/pandelisz)
 
 [Connor Bradley](http://www.google.com)
+<<<<<<< HEAD
 
 [Scott Street](http://astonhack.co.uk)
 
@@ -21,3 +22,5 @@ And this is my first pull request :octocat:!
 [Ollie Favell](http://github.com/DaNinjaKidy)
 
 [Mike Senior](https://github.com/michaelsenior)
+
+[Maxime Alardo](https://twitter.com/maximealardo)
