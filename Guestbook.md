@@ -25,3 +25,5 @@ And this is my first pull request :octocat:!
 [Maxime Alardo](https://twitter.com/maximealardo)
 
 [Atanas Pashkov](http://www.twitter.com/Dgaduin)
+
+[Gareth Sheppard](http://dafk.net/what/)
