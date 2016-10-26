@@ -5,3 +5,5 @@
 [Scott Street](http://astonhack.co.uk)
 
 [Sailesh Patel](http://github.com/SaileshPatel)
+
+[Stefan Kudev](https://www.linkedin.com/in/stefankudev)
