@@ -7,3 +7,5 @@
 [Sailesh Patel](http://github.com/SaileshPatel)
 
 [Stefan Kudev](https://www.linkedin.com/in/stefankudev)
+
+[Paulina Szklarek](http://twitter.com/szklarekp)
