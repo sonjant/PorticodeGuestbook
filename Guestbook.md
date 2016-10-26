@@ -30,4 +30,6 @@ And this is my first pull request :octocat:!
 
 [Andrei Tuta](https://twitter.com/andrei_tu)
 
- [Martin Svejda](https://www.linkedin.com/in/martinsvejda)
+[Martin Svejda](https://www.linkedin.com/in/martinsvejda)
+
+[Rachel Mcteigue](https://github.com/HackNewbieBCU)
