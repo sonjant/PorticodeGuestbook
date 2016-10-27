@@ -28,3 +28,4 @@ And this is my first pull request :octocat:!
 * [Robert Curran](http://127.0.0.1)
 * [Luke Tainton](https://twitter.com/luketainton1)
 * [Harshpal Bhirth](https://www.instagram.com/harshpal/?hl=en)
+* [Kelvin Minguell](http://soundcloud.com/kkgm13)
