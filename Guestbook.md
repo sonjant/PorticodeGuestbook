@@ -25,3 +25,4 @@ And this is my first pull request :octocat:!
 * [Tristan Perkins](http://www.google.com)
 * [Ryan Fuller](http://www.ryanfuller.co.uk)
 * [Tom Seelig](http://www.github.com)
+* [Robert Curran](http://127.0.0.1)
