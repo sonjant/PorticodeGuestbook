@@ -26,3 +26,4 @@ And this is my first pull request :octocat:!
 * [Ryan Fuller](http://www.ryanfuller.co.uk)
 * [Tom Seelig](http://www.github.com)
 * [Robert Curran](http://127.0.0.1)
+* [Luke Tainton](https://twitter.com/luketainton1)
