@@ -24,3 +24,4 @@ And this is my first pull request :octocat:!
 * [Jamie Ingram](https://www.linkedin.com/in/jamieringram)
 * [Tristan Perkins](http://www.google.com)
 * [Ryan Fuller](http://www.ryanfuller.co.uk)
+* [Tom Seelig](http://www.github.com)
