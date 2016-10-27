@@ -30,3 +30,4 @@ And this is my first pull request :octocat:!
 * [Harshpal Bhirth](https://www.instagram.com/harshpal/?hl=en)
 * [Kelvin Minguell](http://soundcloud.com/kkgm13)
 * [ChristianV97](https://github.com/ChristianV97)
+* [Borja Giraldez](https://github.com/giraldez122)
