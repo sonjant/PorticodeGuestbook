@@ -29,3 +29,4 @@ And this is my first pull request :octocat:!
 * [Luke Tainton](https://twitter.com/luketainton1)
 * [Harshpal Bhirth](https://www.instagram.com/harshpal/?hl=en)
 * [Kelvin Minguell](http://soundcloud.com/kkgm13)
+* [ChristianV97](https://github.com/ChristianV97)
