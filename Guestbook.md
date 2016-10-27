@@ -31,3 +31,4 @@ And this is my first pull request :octocat:!
 * [Kelvin Minguell](http://soundcloud.com/kkgm13)
 * [ChristianV97](https://github.com/ChristianV97)
 * [Borja Giraldez](https://github.com/giraldez122)
+* [Charlye_Von_Camaro](http://instagram.com/ertrinken_official)
