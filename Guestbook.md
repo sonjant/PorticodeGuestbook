@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guestbook
 
 I attended [Hacktobefest Birmingham 2016](https://www.eventbrite.co.uk/e/hacktoberfest-birmingham-2016-registration-28429964790) at Birmingham City University
@@ -22,3 +23,4 @@ And this is my first pull request :octocat:!
 * [Rachel Mcteigue](https://github.com/HackNewbieBCU)
 * [Jordan Lees](https://github.com/JordanL1)
 * [Jamie Ingram](https://www.linkedin.com/in/jamieringram)
+* [Tristan Perkins](http://www.google.com)
