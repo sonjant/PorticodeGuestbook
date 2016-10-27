@@ -35,3 +35,5 @@ And this is my first pull request :octocat:!
 [Rachel Mcteigue](https://github.com/HackNewbieBCU)
 
 [Jordan Lees](https://github.com/JordanL1)
+
+[Charlye_Von_Camaro] (http://instagram.com/ertrinken_official) 
